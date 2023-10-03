@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Caspe",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-03T18:13:01.320Z",
+      "notes": "",
+      "position": {
+        "lat": "41.21172151054787",
+        "lng": "0.0439453125"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Ejea de los Caballeros",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-03T18:13:03.696Z",
+      "notes": "",
+      "position": {
+        "lat": "42.081916678306335",
+        "lng": "-1.1645507812500002"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Koberovice",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2023-10-03T18:14:46.704Z",
+      "notes": "",
+      "position": {
+        "lat": "49.596470070892686",
+        "lng": "15.270996093750002"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Podgorzyn",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2023-10-03T18:15:32.059Z",
+      "notes": "",
+      "position": {
+        "lat": "50.792047064406866",
+        "lng": "15.776367187500002"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Knezmost",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2023-10-03T18:15:36.306Z",
+      "notes": "",
+      "position": {
+        "lat": "50.48547354578499",
+        "lng": "15.051269531250002"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Knezmost",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2023-10-03T18:15:40.237Z",
+      "notes": "",
+      "position": {
+        "lat": "50.47236489098385",
+        "lng": "15.059509277343752"
+      },
+      "id": 6
+    }
+  ]
+}
